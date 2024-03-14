@@ -25,7 +25,7 @@ Users can view random quotes, navigate through quotes sequentially, and share th
 3. Tap the share button to share your favorite quotes with others.
 
 ## Screenshots
-<img src="quotes_app_viewModel/screenshots/Quotespng" alt="Screenshot" height="550">
+<img src="quotes_app_viewModel/screenshots/Quotes.png" alt="Screenshot" height="550">
 <img src="quotes_app_viewModel/screenshots/Share.png" alt="Screenshot" height="550">
 
 
